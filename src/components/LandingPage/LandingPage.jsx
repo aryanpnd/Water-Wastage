@@ -10,19 +10,31 @@ function LandingPage() {
     const [loading, setLoading] = useState(false)
     setTimeout(() => {
         setLoading(true)
-    }, 1500);
+    }, 2000);
     return (
         <>  {
             loading ? (<>
                 <Hero1 />
                 <Hero2 />
-            </>) : (<div style={{ display: "flex", height: "100%", width: "100%", justifyContent: "center", alignItems: "center" }}>
-
-                <Lottie
-                    animationData={loadingspinner}
-                    style={{ height: "15%" }}
-                />
-            </div>)
+                <Hero3 />
+            </>) : (
+                <div style={{
+                    display: "flex",
+                    justifyContent: "center",
+                    height: "100%",
+                    alignItems: "center",
+                    flexDirection: "column"
+                }}>
+                    <div class="spinner" >
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </div>
+            )
         }
             {/* <Hero3 /> */}
         </>

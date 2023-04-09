@@ -187,7 +187,7 @@ function CalculatorPage({ query }) {
   const [open, setOpen] = React.useState(false);
   setTimeout(() => {
     setLoading(true)
-  }, 1500);
+  }, 2000);
 
   const [input, setInput] = useState(' ');
   const [imageSrc, setImageSrc] = useState('');
@@ -247,7 +247,6 @@ function CalculatorPage({ query }) {
   function handleInput(event) {
     setInput(event.target.value);
   }
-  console.log("hi")
   return (
     <>
       {
@@ -357,13 +356,22 @@ function CalculatorPage({ query }) {
 
 
         ) :
-          (<div style={{ display: "flex", height: "100%", width: "100%", justifyContent: "center", alignItems: "center" }}>
-
-            <Lottie
-              animationData={loadingspinner}
-              style={{ height: "15%" }}
-            />
-          </div>)
+          (<div style={{
+            display: "flex",
+            justifyContent: "center",
+            height: "100%",
+            alignItems: "center",
+            flexDirection: "column"
+        }}>
+            <div class="spinner" >
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>)
       }
     </>
   )

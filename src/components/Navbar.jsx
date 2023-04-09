@@ -21,9 +21,15 @@ function Navbar() {
 
 
     return (
-        <AppBar position="fixed" sx={{
-            display: "flex", flexDirection: "row", justifyContent: "space-between", boxShadow: 0, backgroundImage: 'linear-gradient(to right, #051937, #061534, #081031, #0b0a2e, #0e022a)'
-            , height: "3.4rem"
+        <AppBar className='glassmorphism' position="fixed" sx={{
+            display: "flex", flexDirection: "row", justifyContent: "space-between", boxShadow: 0
+            , height: "3.4rem",
+            background: "rgba(255, 255, 255, 0)",
+            // boxShadow: " 0 8px 32px 0 rgba(31, 38, 135, 0.37)",
+            backdropFilter: "blur(20px)",
+            WebkitBackdropFilter:"blur(20px)",
+                        //   -webkit-backdrop-filter: blur(7.5px);
+            // border: "1px solid rgba(255, 255, 255, 0.18)"
         }} >
             <Toolbar variant="regular">
                 <IconButton edge="start" color="inherit" aria-label="menu" sx={{ mr: 1 }}>
@@ -50,7 +56,7 @@ function Navbar() {
 
 
                 <Tooltip title="Blogs on water" arrow>
-                    <Button onClick={() => { navigate("/analysis") }} sx={{ color: "whitesmoke", borderRadius: "15px", fontSize: "0.8rem" }}
+                    <Button onClick={() => { navigate("/blog") }} sx={{ color: "whitesmoke", borderRadius: "15px", fontSize: "0.8rem" }}
                         variant={blogLocation ? "contained" : ""}
                     >Blog</Button>
                 </Tooltip>
@@ -72,7 +78,7 @@ function Navbar() {
                 justifyContent: "center",
                 alignItems: "center",
                 marginRight: "2rem",
-                cursor:"pointer"
+                cursor: "pointer"
             }}>
 
                 <Lottie
