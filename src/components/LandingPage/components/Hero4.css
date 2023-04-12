@@ -1,0 +1,154 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #282828;
+}
+
+.slider-pages {
+    overflow: hidden;
+    position: relative;
+    height: 100vh;
+}
+
+.slider-page {
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 100vh;
+    transition: transform 1350ms;
+}
+
+.slider-page--skew {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 140%;
+    height: 100%;
+    background: #282828;
+    transform: skewX(-18deg);
+}
+
+.slider-page--left {
+    left: 0;
+    transform: translateX(-32.5vh) translateY(100%) translateZ(0);
+}
+
+.slider-page--left .slider-page--skew {
+    left: -40%;
+}
+
+.slider-page--left .slider-page__content {
+    padding: auto 30% auto 30%;
+    transform-origin: 100% 0;
+}
+
+.slider-page--right {
+    left: 50%;
+    transform: translateX(32.5vh) translateY(-100%) translateZ(0);
+}
+
+.slider-page--right .slider-page--skew {
+    right: -40%;
+}
+
+.slider-page--right .slider-page__content {
+    padding: auto 30% auto 30%;
+    transform-origin: 0 100%;
+}
+
+.slider-page__content {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0 30% 0 30%;
+    color: #e2e2e2;
+    background-size: cover;
+    transform: skewX(18deg);
+    transition: transform 1350ms;
+}
+
+.slider-page__title {
+    margin-bottom: 1em;
+    font-size: 1em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.slider-page__title--big {
+    font-size: 1.2em;
+}
+
+.slider-page__description {
+    font-size: 1em;
+    text-align: center;
+}
+
+.slider-page__link {
+    color: #80a1c1;
+}
+
+.slider-page__link:hover,
+.slider-page__link:focus {
+    color: #6386a9;
+    text-decoration: none;
+}
+
+/***********************
+*	Project JS Styles
+**********************/
+.js-scrolling__page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.js-scrolling--active .slider-page {
+    transform: translateX(0) translateY(0) translateZ(0);
+}
+
+.js-scrolling--inactive .slider-page__content {
+    transform: skewX(18deg) scale(0.9);
+}
+
+.js-scrolling__page-1 .slider-page--left .slider-page__content {
+    background-image: url("https://www.tutorialspoint.com/environmental_studies/images/waste_water_management.jpg");
+}
+
+.js-scrolling__page-1 .slider-page--right .slider-page__content {
+    background-color: #282828;
+}
+
+.js-scrolling__page-2 .slider-page--left .slider-page__content {
+    background-color: #e2e2e2;
+}
+
+.js-scrolling__page-2 .slider-page--left .slider-page__title,
+.js-scrolling__page-2 .slider-page--left .slider-page__description {
+    color: #282828;
+}
+
+.js-scrolling__page-2 .slider-page--right .slider-page__content {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/7a/8d/51/7a8d51f4968960334274ac7959d31a7d.jpg");
+}
+
+.js-scrolling__page-3 .slider-page--left .slider-page__content {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/4c/d8/7b/4cd87bc93cca92f76285c061cef16585.jpg");
+}
+
+.js-scrolling__page-3 .slider-page--right .slider-page__content {
+    background-color: #282828;
+}

@@ -22,7 +22,7 @@ function Navbar() {
 
     return (
         <AppBar className='glassmorphism' position="fixed" sx={{
-            display: "flex", flexDirection: "row", justifyContent: "space-between", boxShadow: 0
+            display: { xs: 'none', sm: 'none', md: 'none', lg: 'flex', xl: 'flex' }, flexDirection: "row", justifyContent: "space-between", boxShadow: 0
             , height: "3.4rem",
             background: "rgba(255, 255, 255, 0)",
             // boxShadow: " 0 8px 32px 0 rgba(31, 38, 135, 0.37)",
@@ -69,6 +69,7 @@ function Navbar() {
                 <Tooltip title="Contact Us" arrow>
                     <Button sx={{ color: "whitesmoke", borderRadius: "15px", fontSize: "0.8rem" }}
                         variant={contactUsLocation ? "contained" : ""}
+                        onClick={() => { navigate("/contactus") }}
                     >Contact Us</Button>
                 </Tooltip>
             </div>
@@ -78,10 +79,11 @@ function Navbar() {
                 justifyContent: "center",
                 alignItems: "center",
                 marginRight: "2rem",
-                cursor: "pointer"
+                cursor: "pointer",
             }}>
 
                 <Lottie
+                onClick={() => { navigate("/donateus") }}
                     animationData={donateButton}
                     style={{ height: "2.5rem" }}
                     height={4}

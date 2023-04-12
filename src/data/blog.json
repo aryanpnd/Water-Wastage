@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 3075,
+    "articles": [
+      
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Rachel Ramirez",
+        "title": "California Gov. Newsom rolls back some drought restrictions, keeps others, as recent storms ease dry spell",
+        "description": "California Gov. Gavin Newsom on Friday announced the removal of some drought restrictions, while keeping other measures to bolster water supply for vulnerable communities and develop water resilience after a parade of atmospheric river storms pummeled the sta…",
+        "url": "https://www.cnn.com/2023/03/24/us/california-governor-remove-drought-restrictions-climate/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230324140048-01-lake-oroville-file-restricted-2023.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-03-24T19:51:56Z",
+        "content": "California Gov. Gavin Newsom on Friday announced the removal of some drought restrictions, while keeping other measures to bolster water supply for vulnerable communities and develop water resilience… [+6146 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Julia Kane, Lina Tran, & Diana Kruzman, Grist",
+        "title": "It’s Not Just Oceans That Are Rising. Groundwater Is, Too",
+        "description": "This story was originally published by Grist. You can subscribe to its weekly newsletter here.Read more...",
+        "url": "https://gizmodo.com/it-s-not-just-oceans-that-are-rising-groundwater-is-t-1850279126",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1591ea875699fdd49ab93abc9c6b516c.jpg",
+        "publishedAt": "2023-03-29T17:30:00Z",
+        "content": "This story was originally published by Grist. You can subscribe to its weekly newsletter here.\r\nBeneath our feet there is an invisible ocean. Within the cracks of rock slabs, sand, and soil, this wat… [+17410 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Karen McVeigh",
+        "title": "Oysters and whisky? Why the pairing could have huge benefits for wildlife in Scotland",
+        "description": "Scientists find that using oysters as water filters helps the bivalve and other species thrive – and could treble the amount of carbon going into the seabedGood whisky needs pure clean water, which partly explains why distilleries in Scotland always seem to h…",
+        "url": "https://www.theguardian.com/environment/2023/mar/31/oysters-and-whisky-why-the-pairing-could-have-huge-benefits-for-wildlife-in-scotland",
+        "urlToImage": "https://i.guim.co.uk/img/media/f743b4b960f53f97e34787cea0b38285bc780409/676_609_4764_2860/master/4764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69fce0e4c55de2377e81873f50a9d498",
+        "publishedAt": "2023-03-31T08:49:48Z",
+        "content": "Good whisky needs pure clean water, which partly explains why distilleries in Scotland always seem to have such scenic, loch-side backdrops. And one of the best ways to filter that water is oysters. … [+4214 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Tom Hunt",
+        "title": "How to turn leftover roast lamb into a classic Irish pie | Waste not",
+        "description": "Dingle pies are a great way to use up any leftover lamb from Easter, and these are inspired by influential zero-waste chef JP McMahon“Dingle pie is a good way to save lamb,” says the inspirational Irish chef JP McMahon. “Pies have a very rich history in the B…",
+        "url": "https://www.theguardian.com/food/2023/apr/01/how-to-turn-leftover-roast-lamb-into-a-classic-irish-pie-zero-waste-cooking",
+        "urlToImage": "https://i.guim.co.uk/img/media/edce34c8497331ea8924cf82165ab0bbab9b515b/656_482_2924_1754/master/2924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43b7261552f829faff264a5071caf320",
+        "publishedAt": "2023-04-01T05:00:42Z",
+        "content": "Dingle pie is a good way to save lamb, says the inspirational Irish chef JP McMahon. Pies have a very rich history in the British Isles, he says, and adds that every time you make a pie, you tap into… [+3269 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Fiona Harvey Environment editor",
+        "title": "Global fresh water demand will outstrip supply by 40% by 2030, say experts",
+        "description": "Landmark report urges overhaul of wasteful water practices around world on eve of crucial UN summitThe world is facing an imminent water crisis, with demand expected to outstrip the supply of fresh water by 40% by the end of this decade, experts have said on …",
+        "url": "https://www.theguardian.com/environment/2023/mar/17/global-fresh-water-demand-outstrip-supply-by-2030",
+        "urlToImage": "https://i.guim.co.uk/img/media/1b5b417068fbd11d97bd31e9583c1ed97f2bfc7f/0_168_3978_2388/master/3978.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33b6ca5305d53c938265a3dae29740fc",
+        "publishedAt": "2023-03-17T00:01:25Z",
+        "content": "The world is facing an imminent water crisis, with demand expected to outstrip the supply of fresh water by 40% by the end of this decade, experts have said on the eve of a crucial UN water summit.\r\n… [+6170 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Stephanie Pearson",
+        "title": "Nix Hydration Biosensor Review: Unlocking the Science of Sweat",
+        "description": "Nix’s wearable sensor promises to give cyclists and runners real-time hydration advice by analyzing their fluid loss while they work out.",
+        "url": "https://www.wired.com/review/nix-hydration-biosensor/",
+        "urlToImage": "https://media.wired.com/photos/6425f151aa46b5cab52a844b/191:100/w_1280,c_limit/Nix-Sensor-and-Patch-Lifestyle-Gear.jpg",
+        "publishedAt": "2023-03-31T12:00:00Z",
+        "content": "In a world where unmanned spacecraft have landed on Mars and artificial intelligence can read your mind, one would think someone would have figured out a precise way to measure how much athletes shou… [+3793 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Eric McDaniel",
+        "title": "The EPA's watchdog is warning about oversight for billions in new climate spending",
+        "description": "The Environmental Protection Agency received billions from President Biden's climate legislation, but the EPA inspector general warns there is \"a high risk for fraud, waste and abuse.\"",
+        "url": "https://www.npr.org/2023/04/01/1167334678/epa-ira-fraud-concerns",
+        "urlToImage": "https://media.npr.org/assets/img/2023/03/31/gettyimages-1415436362_wide-6f230f02f294be3bbd779985928c957ce57a14b7-s1400-c100.jpg",
+        "publishedAt": "2023-04-01T09:01:09Z",
+        "content": "A sign touting the Inflation Reduction Act is seen at Glynwood Boat House in Cold Spring, N.Y., on Aug. 17, 2022.\r\nMichael M. Santiago/Getty Images\r\nAt a hearing before aHouse committee on Wednesday,… [+2625 chars]"
+      }, {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Chad de Guzman",
+        "title": "Here’s Why People in the Philippines Are Collecting Human Hair to Clean the Ocean",
+        "description": "Local residents worried about the spill’s impact on their fishing and tourism have rallied to help cleanup efforts. And they may have a secret weapon.",
+        "url": "https://time.com/6262631/philippines-oil-spill-cleanup-hair/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/03/Philippines-Oil-Cleanup.jpg?quality=85&w=1200&h=628&crop=1",
+        "publishedAt": "2023-03-14T12:30:43Z",
+        "content": "John Carlo Malicsi, owner of Bruskos Barber Shop in the Philippine city of Calapan, has collected over two sacks of hair from his clientele over the last 10 days. He’s not alone. Residents across Pal… [+5757 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Photos: World’s water in focus after year of droughts and floods",
+        "description": "Climate change, pollution and waste have compounded water concerns by squeezing the Earth's resources.",
+        "url": "https://www.aljazeera.com/gallery/2023/3/23/photos-worlds-water-in-focus-as-clean-supplies-squeezed",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/AP23081423263463.jpg?resize=1920%2C1440",
+        "publishedAt": "2023-03-23T08:48:46Z",
+        "content": "Water is the lifeblood of every community around the world. But a sustainable, clean supply for drinking, hygiene and farming is not guaranteed for hundreds of millions of people, according to United… [+1769 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "James Pasley",
+        "title": "Here's what Niagara Falls looked like when it was turned off for the first time in 12,000 years",
+        "description": "In 1969, the US Army Corps of Engineers dumped 27,000 tons of rock to dam the Niagara River and stop the American Falls to study the erosion.",
+        "url": "https://www.businessinsider.com/photos-niagara-falls-turned-off-first-time-in-12000-years-2023-4",
+        "urlToImage": "https://i.insider.com/642b34601717ad0019ae9826?width=1200&format=jpeg",
+        "publishedAt": "2023-04-07T17:12:44Z",
+        "content": "Niagara Falls dried up in 1969.AP\r\n<ul>\n<li>In 1969, the US Army Corps of Engineers dumped 27,000 tons of rock to dam the Niagara River and stop the American Falls.</li>\n<li>They were assessing a gro… [+7885 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Springwise.com"
+        },
+        "author": "Hannah Hudson",
+        "title": "Extracting water from the atmosphere using renewable energy",
+        "description": "An Indian company is working to develop a system that will use energy from solar, wind, and industrial waste to deliver moisture from the air\nThe post Extracting water from the atmosphere using renewable energy appeared first on Springwise.",
+        "url": "https://www.springwise.com/innovation/sustainability/extracting-water-from-the-atmosphere-using-renewable-energy/",
+        "urlToImage": "https://www.springwise.com/wp-content/uploads/2023/04/innovationsustainabilityextracting-water-from-the-atmosphere-using-renewable-energy.png.png",
+        "publishedAt": "2023-04-06T04:55:00Z",
+        "content": "Spotted: In the face of climate change, current water infrastructure is becoming inadequate. There is an urgent and growing need for solutions that can provide greater resilience to systems that are … [+1383 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Tom Perkins",
+        "title": "US environmental agency to conduct internal inquiry over Ohio train wreck",
+        "description": "EPA’s response to the derailment has drawn intense criticism from East Palestine residents and public health expertsThe US Environmental Protection Agency’s internal watchdog division is opening an investigation into the handling of the East Palestine train w…",
+        "url": "https://www.theguardian.com/us-news/2023/mar/29/ohio-train-derailment-epa-internal-investigation-east-palestine",
+        "urlToImage": "https://i.guim.co.uk/img/media/108130b44ac7f0fd5282da4145d750f5eff2d194/0_115_4878_2927/master/4878.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c91799a49a279343b6a6685669f8412b",
+        "publishedAt": "2023-03-29T06:00:31Z",
+        "content": "The US Environmental Protection Agencys internal watchdog division is opening an investigation into the handling of the East Palestine train wreck which caused a toxic disaster in the small Ohio town… [+4438 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Science Daily"
+        },
+        "author": null,
+        "title": "New water treatment zaps 'forever chemicals' for good",
+        "description": "Engineers have developed a new water treatment that removes 'forever chemicals' from drinking water safely, efficiently -- and for good.",
+        "url": "https://www.sciencedaily.com/releases/2023/03/230322140403.htm",
+        "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "publishedAt": "2023-03-22T18:04:03Z",
+        "content": "Engineers at the University of British Columbia have developed a new water treatment that removes \"forever chemicals\" from drinking water safely, efficiently -- and for good.Forever chemicals, formal… [+2736 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Stephen Burgen in Barcelona",
+        "title": "The crowd goes wild: FC Barcelona reveals Camp Nou stadium’s animal inhabitants",
+        "description": "Swifts, swallows, bats and geckos all enjoy a ‘coexistence of mutual respect’ on the football stands, wildlife census showsIn the silence after the final whistle you can hear the blackbirds sing, or perhaps a chaffinch or a Sardinian warbler. Or, if night has…",
+        "url": "https://www.theguardian.com/environment/2023/mar/18/barcelona-football-camp-nou-stadium-animal-inhabitants-wildlife",
+        "urlToImage": "https://i.guim.co.uk/img/media/45fb489b800f1a6e6e1d71ad53d9044cbadb3242/0_0_3264_1958/master/3264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=227fb5c11ac83aa8f7580805d2b7fa0d",
+        "publishedAt": "2023-03-18T09:00:06Z",
+        "content": "In the silence after the final whistle you can hear the blackbirds sing, or perhaps a chaffinch or a Sardinian warbler. Or, if night has already fallen, you may see the bats swoop low over the centre… [+5181 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Alice Pistolesi and Monica Pelliccia",
+        "title": "Brave newt world: fight for survival against a marble giant-aoe",
+        "description": "The discovery of the endangered Italian alpine newt in a disused mine has shone a light on the biodiversity hiding in the Carrara marble quarries of TuscanyThe heart of the Apuan Alps in Tuscany, Italy, is home to one of the biggest marble mines in the world,…",
+        "url": "https://www.theguardian.com/environment/2023/mar/23/alpine-newt-italy-tuscany-apuan-alps-marble-quarry",
+        "urlToImage": "https://i.guim.co.uk/img/media/2705a8f0de4809333c0885c96cf83eeee3457d95/1043_884_3753_2252/master/3753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af5d3364f55679c26fa3ab35ea4ed43d",
+        "publishedAt": "2023-03-23T07:15:02Z",
+        "content": "The heart of the Apuan Alps in Tuscany, Italy, is home to one of the biggest marble mines in the world, with about 160 active quarries in the Massa Carrara and Lucca areas. Since Roman times, creamy-… [+4164 chars]"
+      }
+    ]
+  }

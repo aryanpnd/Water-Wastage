@@ -19,7 +19,7 @@ function Hero1() {
 
       <div style={{ display: "flex", height: "75%", justifyContent: "center", alignItems: "center", justifyContent: "space-between", paddingLeft: "5rem", paddingRight: "5rem" }}>
 
-        <div style={{ display: "flex", flexDirection: "column", justifyContent: "space-evenly", alignItems: "center", height: "100%", width: "50%", paddingTop: "2.5rem", paddingLeft: "2.5rem" }}>
+        <div className="myAnim" style={{ display: "flex", flexDirection: "column", justifyContent: "space-evenly", alignItems: "center", height: "100%", width: "50%", paddingTop: "2.5rem", paddingLeft: "2.5rem" }}>
           <Typography style={{
             width: "100%", height: "60%", wordWrap: " break-word", fontSize: '1.8em', display: "flex",
             justifyContent: "center",
@@ -50,7 +50,7 @@ function Hero1() {
               />
             </div>
           </Typography >
-          <button style={{width:"15rem"}} className="button-82-pushable" role="button">
+          <button  style={{width:"15rem"}} className="button-82-pushable myAnim" role="button">
             <span className="button-82-shadow"></span>
             <span className="button-82-edge"></span>
             <span className="button-82-front text">
@@ -59,11 +59,11 @@ function Hero1() {
           </button>
         </div>
 
-        <div style={{ display: "flex", height: "100%", position: "relative" }}>
+        <div className="myAnim" style={{ display: "flex", height: "100%", position: "relative" }}>
         
           <svg style={{ position: "absolute", width: "100%" }} xmlns="http://www.w3.org/2000/svg" viewBox="61.059 78.23 872.38 834.696"><defs><linearGradient id="b" gradientTransform="rotate(-45 .5 .5)"><stop offset="0%" stopColor="#bc287c" /><stop offset="50%" stopColor="#784BA0" /><stop offset="100%" stopColor="#0966a8" /></linearGradient><clipPath id="a"><path fill="currentColor" d="M911.5 655.5Q870 811 723.5 875t-286 20q-139.5-44-271-135t-99-248.5Q100 354 188 233T427 86q151-26 301.5 35T916 341q37 159-4.5 314.5Z" /></clipPath></defs><g clipPath="url(#a)"><path fill="url(#b)" d="M911.5 655.5Q870 811 723.5 875t-286 20q-139.5-44-271-135t-99-248.5Q100 354 188 233T427 86q151-26 301.5 35T916 341q37 159-4.5 314.5Z" /></g></svg>
 
-          <Lottie
+          <Lottie 
             animationData={earth}
             style={{ height: "100%" }}
           />

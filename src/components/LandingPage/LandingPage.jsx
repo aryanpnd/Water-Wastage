@@ -1,10 +1,11 @@
 
 import React, { useState } from 'react'
+import Footer from './components/Footer';
 import Hero1 from './components/Hero1'
 import Hero2 from './components/Hero2'
 import Hero3 from './components/Hero3'
-import Lottie from "lottie-react";
-import loadingspinner from "../../lotteAnimation/loading.json";
+import Hero4 from './components/Hero4';
+import Hero5 from './components/Hero5';
 
 function LandingPage() {
     const [loading, setLoading] = useState(false)
@@ -17,6 +18,9 @@ function LandingPage() {
                 <Hero1 />
                 <Hero2 />
                 <Hero3 />
+                <Hero4/>
+                <Hero5/>
+                <Footer/>
             </>) : (
                 <div style={{
                     display: "flex",
